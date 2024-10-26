@@ -1,8 +1,9 @@
 *{
   color:gray;
+  font-family:courier;
 }
 h1{
- color:green; 
+ color:green;  
  font-size: 24px;
   background-color:blue;
 }
@@ -23,13 +24,18 @@ footer p{
 
 .first{
   color:black;
+  font-size:30px;
+  font-weight:800;
 }
 .second{
   color:brown;
+  font-size:30px;
 }
 .third{
   color:violet;
+  font-size:30px;
 }
 .fourth{
   color:orange;
+  font-size:30px;
 }
