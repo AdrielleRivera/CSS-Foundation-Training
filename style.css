@@ -1,41 +1,23 @@
 *{
   color:gray;
-  font-family:courier;
+  font-size:17px;
+  font-family:arial;
 }
 h1{
- color:green;  
+ color:white;  
  font-size: 24px;
   background-color:blue;
 }
 
 h2{
- color:darkred; 
  font-size: 24px;
 }
 
 p{
-   color: blue;
     font-size: 18px;
     }
 
 footer p{
-  color:purple;
-}
-
-.first{
-  color:black;
-  font-size:30px;
-  font-weight:800;
-}
-.second{
-  color:brown;
-  font-size:30px;
-}
-.third{
-  color:violet;
-  font-size:30px;
-}
-.fourth{
-  color:orange;
-  font-size:30px;
+  color:white;
+  background-color:blue;
 }
